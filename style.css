@@ -1,0 +1,38 @@
+body{
+    background-size:cover;
+}
+
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+}
+
+#start{
+    border-radius:10px; 
+    width:75px;
+    height:30px;
+    
+}
+
+.copy_right_footer{
+    width:100%;
+    bottom:0;
+    position:fixed;
+    color:gray;
+    background-color:rgb(11, 43, 45);
+    line-height:3;
+    text-align:center;
+}
+
+canvas{
+    border:2px solid black;
+    border-radius:10px;
+    box-shadow:5px 5px 5px black;
+    margin-top:130px;
+}
+
+input{
+    width: 500px;
+    height:30px;
+}
